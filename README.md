@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @Juan-Ignacio-Bordignon
 # 👀 I’m interested in:
-  Web development, especially back-end.
-  React.js for front-end
+  - Web development, especially back-end.
+  - React.js for front-end
 # 📫 How to reach me:
-  Email : juanibordil@gmail.com
-  LinkedIn: www.linkedin.com/in/juan-ignacio-bordignon-a23988189
+  - Email : juanibordil@gmail.com
+  - LinkedIn: www.linkedin.com/in/juan-ignacio-bordignon-a23988189
 
 <!---
 - 🌱 I’m currently learning ...
